@@ -45,7 +45,7 @@ function draw() {
   image(face1[num1], 0, 0, 1920, 1080);
   hue1 = random(180);
 
- // grid();
+ grid();
     if (frameCount%10==0){
     //tileCount = random(10, 50);
   }
