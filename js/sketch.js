@@ -1,3 +1,5 @@
+//a response to rejection / caught in the glitch / present but never seen
+
 let face1 = [];
 let face2 = [];
 let hue1 = 0;
